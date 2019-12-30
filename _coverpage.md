@@ -1,2 +1,2 @@
-#ColorUI
+
 ![ColorUI](index.png)
